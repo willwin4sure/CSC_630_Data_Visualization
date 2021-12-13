@@ -28,7 +28,7 @@
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/03_historical.py)
 
-Based off of:
+Based off of John Snow's historic Cholera Map:
 
 <p align="center">
     <img src="creations/03_historical_orig.jpg" width="800">
