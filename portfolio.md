@@ -17,3 +17,19 @@
 <p align="center">
     <img src="creations/02_pictogram.png" width="800">
 </p>
+
+## Day 3
+
+*Tools used:* Folium
+
+<p align="center">
+    <img src="creations/03_historical.png" width="800">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/03_historical.py)
+
+Based off of:
+
+<p align="center">
+    <img src="creations/03_historical_orig.jpg" width="800">
+</p>
