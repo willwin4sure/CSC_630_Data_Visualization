@@ -34,7 +34,7 @@ Based off of John Snow's historic Cholera Map:
     <img src="creations/03_historical_orig.jpg" width="800">
 </p>
 
-## Day 1
+## Day 4
 
 *Tools used:* `matplotlib.pyplot`
 
