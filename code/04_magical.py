@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-plt.rcParams["figure.figsize"] = (15,3)
+plt.rcParams["figure.figsize"] = (15,5)
 
 
 years = np.array([2000+i for i in range(21)])
