@@ -33,3 +33,13 @@ Based off of John Snow's historic Cholera Map:
 <p align="center">
     <img src="creations/03_historical_orig.jpg" width="800">
 </p>
+
+## Day 1
+
+*Tools used:* `matplotlib.pyplot`
+
+<p align="center">
+    <img src="creations/04_magical.png" width="800">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/04_magical.py)
