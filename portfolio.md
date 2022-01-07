@@ -43,3 +43,15 @@ Based off of John Snow's historic Cholera Map:
 </p>
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/04_magical.py)
+
+## Day 5
+
+*Tools used:* `matplotlib.pyplot`
+
+Data from predictions in https://www.weforum.org/agenda/2020/09/the-world-population-in-2100-by-country/.
+
+<p align="center">
+    <img src="creations/05_slope.png" width="800">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/05_slope.py)
