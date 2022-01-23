@@ -63,11 +63,11 @@ Data from predictions in https://www.weforum.org/agenda/2020/09/the-world-popula
 To be added when I switch to HTML file so the interactive JS will work. Check out the [source here](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/06_experimental.html). Here are some screenshots for now:
 
 <p align="center">
-    <img src="creations/06_experimental-uniform.png" width="800">
+    <img src="creations/06_experimental-uniform.png" width="400">
 </p>
 
 <p align="center">
-    <img src="creations/06_experimental-binomial.png" width="800">
+    <img src="creations/06_experimental-binomial.png" width="400">
 </p>
 
 ## Day 8: Animals
