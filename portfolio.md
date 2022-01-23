@@ -69,7 +69,7 @@ To be added when I switch to HTML file so the interactive JS will work. Check ou
 Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 
 <p align="center">
-    <img src="creations/08_animals.png" width="800">
+    <img src="creations/08_animals.png" width="400">
 </p>
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/08_animals.ipynb)
