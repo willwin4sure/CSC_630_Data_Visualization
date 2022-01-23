@@ -60,7 +60,7 @@ Data from predictions in https://www.weforum.org/agenda/2020/09/the-world-popula
 
 *Tools used:* `d3.js`
 
-To be added when I switch to HTML file so the interactive JS will work. Check out the [source here](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/06_experimental.html). Here are some screenshots for now:
+Interactivity will be added when I switch to an HTML file so the JavaScript will work. Each time you click the button, new data is generated so you get a different bar chart every time. Here are some screenshots for now:
 
 <p align="center">
     <img src="creations/06_experimental-uniform.png" width="400">
@@ -69,6 +69,18 @@ To be added when I switch to HTML file so the interactive JS will work. Check ou
 <p align="center">
     <img src="creations/06_experimental-binomial.png" width="400">
 </p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/06_experimental.html)
+
+## Day 7: Physical
+
+*Tools used:* `altair`
+
+<p align="center">
+    <img src="creations/07_physical.png" width="800">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/07_physical.ipynb)
 
 ## Day 8: Animals
 
