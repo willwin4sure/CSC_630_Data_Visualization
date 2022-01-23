@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v6.js"></script>
+
+<!-- Add 2 buttons -->
+<button onclick="uniform(data); update(data)">Uniform</button>
+<button onclick="binomial(data); update(data)">Binomial</button>
+
+<!-- Create a div where the graph will take place -->
+<div id="experimental">
+    <script>
+        const data = [{
+            group: "0",
+            value: 0,
+            color: "#ff0000"
+        }, {
+            group: "1",
+            value: 0,
+            color: "#ff3300"
+        }, {
+            group: "2",
+            value: 0,
+            color: "#ff6600"
+        }, {
+            group: "3",
+            value: 0,
+            color: "#ff9900"
+        }, {
+            group: "4",
+            value: 0,
+            color: "#ffcc00"
+        }, {
+            group: "5",
+            value: 0,
+            color: "#ffff00"
+        }, {
+            group: "6",
+            value: 0,
+            color: "#ccff00"
+        }, {
+            group: "7",
+            value: 0,
+            color: "#99ff00"
+        }, {
+            group: "8",
+            value: 0,
+            color: "#66ff00"
+        }, {
+            group: "9",
+            value: 0,
+            color: "#33ff00"
+        }, {
+            group: "10",
+            value: 0,
+            color: "#00ff00"
+        }];
+
+        // set the dimensions and margins of the graph
+        const margin = {
+                top: 30,
+                right: 30,
+                bottom: 70,
+                left: 60
+            },
+            width = 460 - margin.left - margin.right,
+            height = 400 - margin.top - margin.bottom;
+
+        // append the svg object to the body of the page
+        const svg = d3.select("#experimental")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+
+        // X axis
+        const x = d3.scaleBand()
+            .range([0, width])
+            .domain(data.map(d => d.group))
+            .padding(0.2);
+        svg.append("g")
+            .attr("transform", `translate(0,${height})`)
+            .call(d3.axisBottom(x))
+
+        // Add Y axis
+        const y = d3.scaleLinear()
+            .domain([0, 30])
+            .range([height, 0]);
+        svg.append("g")
+            .attr("class", "myYaxis")
+            .call(d3.axisLeft(y));
+
+        // A function that create / update the plot for a given variable:
+        function update(data) {
+
+            var u = svg.selectAll("rect")
+                .data(data)
+
+            u
+                .join("rect")
+                .transition()
+                .duration(1000)
+                .attr("x", d => x(d.group))
+                .attr("y", d => y(d.value))
+                .attr("width", x.bandwidth())
+                .attr("height", d => height - y(d.value))
+                .attr("fill", d => d.color)
+        }
+
+        function uniform(data) {
+            for (let i = 0; i < data.length; i++) {
+                data[i].value = 0;
+            }
+            for (let i = 0; i < 100; i++) {
+                data[Math.floor(Math.random() * data.length)].value++;
+            }
+        }
+
+        function binomial(data) {
+            for (let i = 0; i < data.length; i++) {
+                data[i].value = 0;
+            }
+
+            for (let i = 0; i < 100; i++) {
+                result = 0;
+                for (let j = 0; j < data.length - 1; j++) {
+                    result += Math.random() < 0.5 ? 0 : 1;
+                }
+                data[result].value++;
+            }
+        }
+
+        // Initialize the plot with the first dataset
+        update(data)
+    </script>
+</div>
