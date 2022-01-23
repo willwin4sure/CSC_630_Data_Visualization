@@ -76,6 +76,8 @@ Interactivity will be added when I switch to an HTML file so the JavaScript will
 
 *Tools used:* `altair`
 
+Data from https://worldpopulationreview.com/state-rankings/flattest-states.
+
 <p align="center">
     <img src="creations/07_physical.png" width="800">
 </p>
