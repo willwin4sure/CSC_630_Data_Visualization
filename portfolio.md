@@ -95,3 +95,57 @@ Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 </p>
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/08_animals.ipynb)
+
+## Day 9: Statistics
+
+
+
+## Day 10: Abstract
+
+*Tools used:* `matplotlib.pyplot` and `numpy`
+
+<p align="center">
+    <img src="creations/10_abstract.png" width="600">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/10_abstract.py)
+
+## Day 11: Circular
+
+## Day 12: Strips
+
+*Tools used:* `altair`
+
+Data from https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities.
+
+<p align="center">
+    <img src="creations/12_strips.png" width="800">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/12_strips.ipynb)
+
+## Day 13: Correlation
+
+*Tools used:* `altair`
+
+Data from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T0HSJ1
+
+<p align="center">
+    <img src="creations/13_correlation.png" width="1000">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/13_correlation.ipynb)
+
+## Day 14: Space
+
+## Day 15: Multivariate
+
+*Tools used:* `sklearn` and `seaborn`
+
+Data from https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html
+
+<p align="center">
+    <img src="creations/15_multivariate.png" width="1000">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/15_multivariate.ipynb)

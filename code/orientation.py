@@ -2,9 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-df = pd.read_csv('harvard_dataverse_metadata_flipped.csv')
-
-
+df = pd.read_csv('data/harvard_dataverse_metadata_flipped.csv')
 
 time = np.array(df['time'])
 
