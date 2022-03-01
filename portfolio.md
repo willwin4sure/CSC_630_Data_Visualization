@@ -91,13 +91,18 @@ Data from https://worldpopulationreview.com/state-rankings/flattest-states.
 Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 
 <p align="center">
-    <img src="creations/08_animals.png" width="400">
+    <img src="creations/08_animals.png" width="300">
 </p>
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/08_animals.ipynb)
 
 ## Day 9: Statistics
 
+*Tools used:* Google Slides
+
+<p align="center">
+    <img src="creations/09_statistics.png" width="800">
+</p>
 
 
 ## Day 10: Abstract
@@ -111,6 +116,14 @@ Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/10_abstract.py)
 
 ## Day 11: Circular
+
+*Tools used:* `altair`
+
+<p align="center">
+    <img src="creations/11_circular.png" width="600">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/11_circular.ipynb)
 
 ## Day 12: Strips
 
