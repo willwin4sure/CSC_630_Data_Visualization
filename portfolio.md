@@ -119,6 +119,8 @@ Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 
 *Tools used:* `altair`
 
+Data from http://www.planecrashinfo.com/cause.htm.
+
 <p align="center">
     <img src="creations/11_circular.png" width="600">
 </p>
@@ -150,6 +152,16 @@ Data from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/D
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/13_correlation.ipynb)
 
 ## Day 14: Space
+
+*Tools used:* `altair`
+
+Data from https://www.weforum.org/agenda/2021/02/mars-nasa-space-exploration-cost-perseverance-viking-curiosity/.
+
+<p align="center">
+    <img src="creations/14_space.png" width="1000">
+</p>
+
+[Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/14_space.ipynb)
 
 ## Day 15: Multivariate
 
