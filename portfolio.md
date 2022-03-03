@@ -1,6 +1,20 @@
 # CSC 630 Data Visualization Portfolio
 
-## Day 1: Part to Whole
+## Group Task Links:
+
+* Group Task 0: https://github.com/michaelyhuang23/CSC630-Group-Task-0
+* Group Task 1: https://github.com/CSC630/will_nathan_addison_data_viz
+* Group Task 2: https://hadrian-reppas.github.io/Extant_Analysis_1/index.html
+* Group Task 3: https://github.com/chrellis/will-chenaultVIZ
+* Group Task 4: https://github.com/CSC630/will_nathan_darian_friendship_graph
+
+## Individual Project:
+
+Country adjacency matrix graph: https://github.com/willwin4sure/CSC_630_Data_Visualization/tree/main/country_adjacency
+
+## Individual 30 Day Chart Challenge:
+
+### Day 1: Part to Whole
 
 *Tools used:* `matplotlib.pyplot`
 
@@ -10,7 +24,7 @@
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/01_part_to_whole.py)
 
-## Day 2: Pictogram
+### Day 2: Pictogram
 
 *Tools used:* Google Slides
 
@@ -18,7 +32,7 @@
     <img src="creations/02_pictogram.png" width="800">
 </p>
 
-## Day 3: Historical
+### Day 3: Historical
 
 *Tools used:* Folium
 
@@ -34,7 +48,7 @@ Based off of John Snow's historic Cholera Map:
     <img src="creations/03_historical_orig.jpg" width="800">
 </p>
 
-## Day 4: Magical
+### Day 4: Magical
 
 *Tools used:* `matplotlib.pyplot`
 
@@ -44,7 +58,7 @@ Based off of John Snow's historic Cholera Map:
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/04_magical.py)
 
-## Day 5: Slope
+### Day 5: Slope
 
 *Tools used:* `matplotlib.pyplot`
 
@@ -56,7 +70,7 @@ Data from predictions in https://www.weforum.org/agenda/2020/09/the-world-popula
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/05_slope.py)
 
-## Day 6: Experimental
+### Day 6: Experimental
 
 *Tools used:* `d3.js`
 
@@ -72,7 +86,7 @@ Interactivity will be added when I switch to an HTML file so the JavaScript will
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/06_experimental.html)
 
-## Day 7: Physical
+### Day 7: Physical
 
 *Tools used:* `altair`
 
@@ -84,7 +98,7 @@ Data from https://worldpopulationreview.com/state-rankings/flattest-states.
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/07_physical.ipynb)
 
-## Day 8: Animals
+### Day 8: Animals
 
 *Tools used:* `altair`
 
@@ -96,7 +110,7 @@ Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/08_animals.ipynb)
 
-## Day 9: Statistics
+### Day 9: Statistics
 
 *Tools used:* Google Slides
 
@@ -105,7 +119,7 @@ Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 </p>
 
 
-## Day 10: Abstract
+### Day 10: Abstract
 
 *Tools used:* `matplotlib.pyplot` and `numpy`
 
@@ -115,7 +129,7 @@ Data from https://www.gaytravel.com/gay-blog/pet-ownership-statistics.
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/10_abstract.py)
 
-## Day 11: Circular
+### Day 11: Circular
 
 *Tools used:* `altair`
 
@@ -127,7 +141,7 @@ Data from http://www.planecrashinfo.com/cause.htm.
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/11_circular.ipynb)
 
-## Day 12: Strips
+### Day 12: Strips
 
 *Tools used:* `altair`
 
@@ -139,7 +153,7 @@ Data from https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-citi
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/12_strips.ipynb)
 
-## Day 13: Correlation
+### Day 13: Correlation
 
 *Tools used:* `altair`
 
@@ -151,7 +165,7 @@ Data from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/D
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/13_correlation.ipynb)
 
-## Day 14: Space
+### Day 14: Space
 
 *Tools used:* `altair`
 
@@ -163,7 +177,7 @@ Data from https://www.weforum.org/agenda/2021/02/mars-nasa-space-exploration-cos
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/14_space.ipynb)
 
-## Day 15: Multivariate
+### Day 15: Multivariate
 
 *Tools used:* `sklearn` and `seaborn`
 
@@ -174,3 +188,4 @@ Data from https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fet
 </p>
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/15_multivariate.ipynb)
+
