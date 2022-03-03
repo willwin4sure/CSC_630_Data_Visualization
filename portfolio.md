@@ -172,7 +172,7 @@ Data from https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/D
 Data from https://www.weforum.org/agenda/2021/02/mars-nasa-space-exploration-cost-perseverance-viking-curiosity/.
 
 <p align="center">
-    <img src="creations/14_space.png" width="1000">
+    <img src="creations/14_space.png" width="600">
 </p>
 
 [Source](https://github.com/willwin4sure/CSC_630_Data_Visualization/blob/main/code/14_space.ipynb)
